@@ -100,8 +100,7 @@ That is all. No account, no API key, no configuration file needed.
 nimbus-weather/
 ├── app.py            — Full application (API, animation, UI)
 ├── requirements.txt  — Python dependencies
-├── README.md         — This file
-└── .gitignore        — Git exclusions
+└── README.md         — This file
 ```
 
 Favourites are saved to `~/.nimbus_favorites.json` on your machine.
@@ -129,7 +128,7 @@ sudo apt install python3-tk
 MIT — free to use, modify, and distribute.
 
 ```
-Copyright (c) 2025 Your Name
+Copyright (c) 2026 Rabin
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
